@@ -7,3 +7,6 @@ logs/
 
 *~
 *.swp
+
+# LOH3 mesh, unpacked by run_case.sh from LOH1_TEST.mesh.zst
+cases/loh3/LOH1_TEST.mesh
